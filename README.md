@@ -4,7 +4,7 @@
   <img src="arnav-banner.png" width="150%"/>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Coolvetica&weight=200&size=55&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=500&height=100&lines=Hi%2C+I+am+Arnav+Eluri" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Coolvetica&weight=200&size=55&duration=2500&pause=1000&color=ffffff&center=true&vCenter=true&width=500&height=100&lines=Hi%2C+I+am+Arnav+Eluri" alt="Typing SVG" /></a>
 ### AI Engineer • ML Researcher • Full-Stack Developer
 Building intelligent systems that solve real-world problems using AI, Machine Learning, and scalable software.
 <br>
